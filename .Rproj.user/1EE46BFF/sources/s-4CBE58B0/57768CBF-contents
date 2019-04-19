@@ -89,6 +89,7 @@ plasticContainer[["greenBox"]][[1]]
 
 ```{r}
 plasticContainer[c("greenBox","redBox")] 
+
 plasticContainer[c(1,2)]
 ```
 
