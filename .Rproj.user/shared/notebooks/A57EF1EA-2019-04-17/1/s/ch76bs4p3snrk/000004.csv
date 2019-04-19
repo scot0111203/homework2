@@ -1,0 +1,18 @@
+"0","library(dplyr)"
+"2","Warning message:
+"
+"2","In strsplit(x, ""\n"") :"
+"2"," input string 1 is invalid in this locale
+"
+"0","library(stringr)"
+"0","library(lubridate) "
+"2","package ．lubridate・ was built under R version 3.5.3"
+"2","
+Attaching package: ．lubridate・
+
+"
+"2","The following object is masked from ．package:base・:
+
+    date
+
+"

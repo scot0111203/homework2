@@ -1,0 +1,15 @@
+"0","extract1[[1]][[1]]"
+"1","[1]"
+"1"," ""paper"""
+"1","
+"
+"2","Warning message:
+"
+"2","In strsplit(x, ""\n"") :"
+"2"," input string 1 is invalid in this locale
+"
+"0","extract2[[1]]"
+"1","[1]"
+"1"," ""paper"""
+"1","
+"

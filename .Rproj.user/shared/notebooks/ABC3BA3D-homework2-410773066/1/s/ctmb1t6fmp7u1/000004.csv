@@ -1,0 +1,4 @@
+"0","library(httr)"
+"0","commitCheck <- content(GET(""https://api.github.com/repos/rstudio/rstudio/commits""))"
+"2","Error in loadNamespace(name) : there is no package called ‘jsonlite’
+"
